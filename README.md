@@ -1,7 +1,7 @@
 # Mineral-Data-Builder
 Pequeña aplicación que te permite crear y simular datos relacionados con la industria minera. Con esta herramienta, puedes generar datos de ley de mineral, simular muestreos y análisis de laboratorio, visualizar información geoespacial y realizar análisis de variabilidad. Facilita la toma de decisiones en el planeamiento minero al proporcionar insights basados en datos sólidos y simulaciones precisas.
 
-## Características Clave
+## Características
 
 - **Generación de Datos Minerales**: Crea conjuntos de datos simulados de ley de mineral con facilidad, lo que te permite realizar análisis y pruebas sin depender de datos reales.
 
